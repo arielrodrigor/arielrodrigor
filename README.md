@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**arielrodrigor/arielrodrigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Howdy!
+ I’m Ariel! I’m a Full stack Developer based in El Salvador 
 
-Here are some ideas to get you started:
+I have experience in back-end, mobile development but right now Exploring Nextjs and Tailwind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm passionate about creativity that's why I’m studying ✨Graphic Design✨ to become a **DESIGNLOPER** or Develop-designer or… just a developer that can design.
+
+
+
+## 📈 Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical)](https://github.com/[Your GitHub Username]/)
+
+
+## 📫 How to reach me
+
+- [LinkedIn Profile](https://www.linkedin.com/in/arielrodrigo/)
+- [Personal Website] (arielrodrigo.com)
