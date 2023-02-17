@@ -10,7 +10,6 @@ I have experience in back-end, mobile development but right now Exploring Nextjs
 
 ## 📈 Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical)](https://github.com/[Your GitHub Username]/)
 
