@@ -1,5 +1,5 @@
 
-# Howdy!
+# Howdy! 👋
  I’m Ariel! I’m a Full stack Developer based in El Salvador 
 
 I have experience in back-end, mobile development but right now Exploring Nextjs and Tailwind.
@@ -11,7 +11,8 @@ I have experience in back-end, mobile development but right now Exploring Nextjs
 ## 📈 Stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact&theme=radical)](https://github.com/[arielrodrigor]/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielrodrigor&layout=compact&theme=radical)](https://github.com/[arielrodrigor]/)
+
 
 
 ## 📫 How to reach me
