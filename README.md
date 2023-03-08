@@ -2,11 +2,7 @@
 # Howdy! 👋
  I’m Ariel! I’m a Full stack Developer based in El Salvador 
 
-I have experience in back-end, mobile development but right now Exploring Nextjs and Tailwind.
-
- I'm passionate about creativity that's why I’m studying ✨Graphic Design✨ to become a **DESIGNLOPER** or Develop-designer or… just a developer that can design.
-
-
+hire me
 
 ## 📈 Stats
 
