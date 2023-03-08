@@ -1,6 +1,6 @@
 
 # Howdy! 👋
- I’m Ariel! I’m a Full stack Developer based in El Salvador 
+ I’m Ariel! a Full stack Developer based in El Salvador 
 
 hire me
 
