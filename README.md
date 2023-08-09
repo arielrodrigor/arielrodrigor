@@ -13,5 +13,6 @@ hire me
 
 ## 📫 How to reach me
 
+-contacto@arielrodrigo.com
 - [LinkedIn Profile](https://www.linkedin.com/in/arielrodrigo/)
 - [Website](https://www.arielrodrigo.com)
